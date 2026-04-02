@@ -1,0 +1,36 @@
+# 💼 Career Coach AI Chatbot
+
+An AI-powered Career Coach chatbot built with LLaMA 3.3 and Streamlit.
+
+## Features
+- Resume tips and optimization
+- Interview preparation
+- Career path guidance
+- LinkedIn profile improvement
+- Salary negotiation advice
+
+## Tech Stack
+- Groq API (LLaMA 3.3-70b)
+- Streamlit
+- Python
+- python-dotenv
+
+## Setup Instructions
+
+1. Clone the repository
+   git clone https://github.com/Joshua8976-spec/Career-coach-chatbot.git
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Create a .env file and add your Groq API key
+   GROQ_API_KEY=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
+
+4. Run the app
+   streamlit run app.py
+
+## Demo
+![Chatbot Screenshot](screenshot.png)
+
+## Author
+Your Name — Joshua Rock
