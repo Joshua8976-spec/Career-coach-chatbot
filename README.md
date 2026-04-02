@@ -24,7 +24,7 @@ An AI-powered Career Coach chatbot built with LLaMA 3.3 and Streamlit.
    pip install -r requirements.txt
 
 3. Create a .env file and add your Groq API key
-   GROQ_API_KEY=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
+   GROQ_API_KEY=your_api_key_here
 
 4. Run the app
    streamlit run app.py
