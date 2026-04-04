@@ -1,3 +1,9 @@
 streamlit
 groq
 python-dotenv
+PyPDF2
+python-docx
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
