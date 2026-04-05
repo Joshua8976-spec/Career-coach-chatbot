@@ -14,6 +14,12 @@ An AI-powered Career Coach chatbot built with LLaMA 3.3 and Streamlit.
 - Streamlit
 - Python
 - python-dotenv
+- PyPDF2
+- python-docx
+- langchain
+- langchain-community
+- faiss-cpu
+- sentence-transformers
 
 ## Setup Instructions
 
@@ -34,5 +40,4 @@ An AI-powered Career Coach chatbot built with LLaMA 3.3 and Streamlit.
 
 
 
-## Author
-Your Name — Joshua Rock
+## Author- Joshua Rock
