@@ -30,7 +30,8 @@ An AI-powered Career Coach chatbot built with LLaMA 3.3 and Streamlit.
    streamlit run app.py
 
 ## Demo
-<img width="1384" height="786" alt="image" src="https://github.com/user-attachments/assets/d45aa19f-e268-4ef2-8220-5595896c4456" />
+<img width="1806" height="834" alt="image" src="https://github.com/user-attachments/assets/1e499f18-97fa-4867-bc84-2af6ea17442f" />
+
 
 
 ## Author
